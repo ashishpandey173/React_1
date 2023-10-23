@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/task1/static/css/main.02956ce0.css",
-    "main.js": "/task1/static/js/main.210d2c26.js",
-    "static/js/787.b755f208.chunk.js": "/task1/static/js/787.b755f208.chunk.js",
-    "static/media/logo.svg": "/task1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/task1/index.html",
-    "main.02956ce0.css.map": "/task1/static/css/main.02956ce0.css.map",
-    "main.210d2c26.js.map": "/task1/static/js/main.210d2c26.js.map",
-    "787.b755f208.chunk.js.map": "/task1/static/js/787.b755f208.chunk.js.map"
+    "main.css": "/React_1/static/css/main.02956ce0.css",
+    "main.js": "/React_1/static/js/main.3a74d8b8.js",
+    "static/js/787.b755f208.chunk.js": "/React_1/static/js/787.b755f208.chunk.js",
+    "static/media/logo.svg": "/React_1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_1/index.html",
+    "main.02956ce0.css.map": "/React_1/static/css/main.02956ce0.css.map",
+    "main.3a74d8b8.js.map": "/React_1/static/js/main.3a74d8b8.js.map",
+    "787.b755f208.chunk.js.map": "/React_1/static/js/787.b755f208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02956ce0.css",
-    "static/js/main.210d2c26.js"
+    "static/js/main.3a74d8b8.js"
   ]
 }
