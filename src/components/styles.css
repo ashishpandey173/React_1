@@ -1,0 +1,17 @@
+.container{
+    
+    border:0.1px solid white ;
+    width: 30%;
+    margin:auto;
+    margin-top: 50px;
+    background-color: white;
+    
+}
+
+textarea{
+    padding: 10%;
+    border: 1px solid;
+}
+body{
+    background-color: aliceblue;
+}
